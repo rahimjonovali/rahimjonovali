@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Testbor AI
 - 🌱 I’m currently specializing in Python and its framework(Django)
 - 👯 I’m looking to collaborate on software developer  
-- 🤔 I’m looking for help with AI/ML engineering
 <!--
 **rahimjonovali/rahimjonovali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
