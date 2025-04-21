@@ -4,7 +4,11 @@
 - 👯 I’m looking to collaborate on software developer
 - 🐍 Python & Django enthusiast, always exploring new tech.
 - 🤝 Open to collaborations in software development and AI-related projects.
-
+### 🚀 Tech Stack
+- 💻 Languages: Python
+- 🌐 Web Frameworks: Django
+- 🛠️ Tools: Git, GitHub, Docker, Postman
+- 🗄️ Databases:PostgreSQL, SQLite
 <!--
 **rahimjonovali/rahimjonovali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
