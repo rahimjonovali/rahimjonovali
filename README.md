@@ -1,8 +1,10 @@
 ## Hi there 👋
-
+-  I'm Muhammadjon, a passionate Computer Engineering student at Turin Polytechnic University.
 - 🔭 I’m currently working on Testbor AI
-- 🌱 I’m currently specializing in Python and its framework(Django)
-- 👯 I’m looking to collaborate on software developer  
+- 👯 I’m looking to collaborate on software developer
+- 🐍 Python & Django enthusiast, always exploring new tech.
+- 🤝 Open to collaborations in software development and AI-related projects.
+
 <!--
 **rahimjonovali/rahimjonovali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
