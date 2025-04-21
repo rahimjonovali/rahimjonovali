@@ -1,7 +1,6 @@
 ## Hi there 👋
 -  I'm Muhammadjon, a passionate Computer Engineering student at Turin Polytechnic University.
 - 🔭 I’m currently working on Testbor AI
-- 👯 I’m looking to collaborate on software developer
 - 🐍 Python & Django enthusiast, always exploring new tech.
 - 🤝 Open to collaborations in software development and AI-related projects.
 ### 🚀 Tech Stack
