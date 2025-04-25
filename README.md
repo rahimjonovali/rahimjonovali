@@ -12,7 +12,7 @@
 ### 📬 Connect with me
 - 💼 [LinkedIn](https://linkedin.com/in/muhammadjon-r-45a5a8236)
 - 📧 Email: rahimjonovmuhammadjon74@gmail.com
-- 📱 Telegram: [@rahimjonovM](https://t.me/rahimjonovM)
+- 📱 [Telegram](https://t.me/rahimjonovM)
 <!--
 **rahimjonovali/rahimjonovali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
